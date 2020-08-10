@@ -1,3 +1,5 @@
 {
-  "main_url": "https://apps1.umg.edu.gt/"
+  "urls": {
+    "host_url": "https://apps1.umg.edu.gt/",
+  }
 }
